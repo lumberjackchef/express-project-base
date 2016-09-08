@@ -1,6 +1,6 @@
 # Express Project Base
 
-A baseline Express project that builds on the Express generated project baseline.
+A baseline Express app that builds on the Express generated app.
 
 ---
 
