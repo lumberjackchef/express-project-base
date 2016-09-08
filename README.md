@@ -1,4 +1,6 @@
-# Pivotal Tracker - Multi-Project Account Data Graphing
+# Express Project Base
+
+A baseline Express project that builds on the Express generated project baseline.
 
 ---
 
@@ -19,12 +21,3 @@
 - Pug Templating
 - Nodemon for server handling
 - Refactors the Express project base for code efficiency
-
----
-
-## Notes:
-- Add ES2015 for backend
-- Get all projects in [time frame]
-- Get total bugs from those projects
-- Get total bug rejections from those projects
-- Graph it all somehow
