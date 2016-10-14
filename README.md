@@ -6,7 +6,7 @@ A baseline Express app that builds on the Express generated app.
 
 ## Installation:
 - clone this repo
-- `$ npm install`
+- `$ yarn`
 
 #### Production Environment:
 - `$ NODE_ENV=production nodemon`
@@ -21,3 +21,4 @@ A baseline Express app that builds on the Express generated app.
 - Pug Templating
 - Nodemon for server handling
 - Refactors the Express project base for code efficiency
+- Adds Yarn for dependency management
